@@ -1,7 +1,4 @@
 
-#用来计算两张人脸图像之间的距离矩阵。需要输入的参数：
-#预训练模型 图片1  图片220170512-110547 1.png 2.png
-
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
